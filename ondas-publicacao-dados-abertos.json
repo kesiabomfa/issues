@@ -33,8 +33,8 @@
     "org": "CGE",
     "origem": "ckan",
     "private": "FALSE",
-    "onda": 2,
-    "obs": "Priorizada no planejamento estratégico"
+    "onda": 4,
+    "obs": "Priorizada no planejamento estratégico - com adequações a serem feitas para descaracterização das unidades prisionais e socioeducativas nos arquivos de 2019"
   },
   {
     "name": "relatorios-de-pedidos-por-instituicao",
@@ -52,7 +52,7 @@
     "org": "Secretaria de Estado Planejamento e Gestão",
     "origem": "ckan",
     "private": "FALSE",
-    "onda": 2
+    "onda": 1
   },
   {
     "name": "doacoes-ao-governo",
@@ -61,7 +61,7 @@
     "org": "Secretaria de Estado Planejamento e Gestão",
     "origem": "ckan",
     "private": "FALSE",
-    "onda": 2
+    "onda": 1
   },
   {
     "name": "NA",
